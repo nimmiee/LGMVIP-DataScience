@@ -9,7 +9,7 @@ Logistic Regression
 
 **2. Prediction using Decision Tree  Algorithm:**
 
-In this task, I have classified the Iris dataset with the help of Decision Tree Classifier algorithm and visulize it. Also, I used Decision Tree Classifier algorithm to identify the class of a Iris plant based on its features.
+In this task, I have classified the Iris dataset with the help of Decision Tree Classifier algorithm and visualized it. Also, I used Decision Tree Classifier algorithm to identify the class of a Iris plant based on its features.
 
 
 
